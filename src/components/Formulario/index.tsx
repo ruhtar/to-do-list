@@ -29,7 +29,7 @@ export default class Formulario extends Component {
               required
             />
           </div>
-          <Botao />
+          <Botao>Adicionar</Botao>
         </form>
       </div>
     );
